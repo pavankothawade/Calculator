@@ -1,0 +1,25 @@
+
+div.container {
+    width: 80%;
+    border: 1px solid gray;
+}
+
+header, footer {
+    padding: 1em;
+    color: black
+    background-color: #FFD433;
+    clear: left;
+    text-align: center;
+}
+
+article {
+    
+    border-left: 1px solid gray;
+    padding: 1em;
+    overflow: hidden;
+}
+
+div
+{
+groove {border-style: groove;}
+}
